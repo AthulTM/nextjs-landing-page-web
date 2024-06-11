@@ -3,7 +3,6 @@ import React from "react";
 import { FaPhoneAlt } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 import TextScroller from "./TextScroller";
-import Link from "next/link";
 
 const Footer = () => {
 
